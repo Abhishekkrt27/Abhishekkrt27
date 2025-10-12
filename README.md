@@ -100,14 +100,14 @@
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=krdevanshu06&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/> -->
-       <a href="#GitHub Stats"><img  alt="abhishekk-10's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/abhishekk-10?cardType=level&preferLogin=false&Background=000000&Text=FFFFFF&Border=000000" /></a>
-  <a href="#GitHub Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-10&layout=compact&langs_count=5&theme=highcontrast&hide_border=true" height="200em"/></a>
+       <a href="#GitHub Stats"><img  alt="abhishekkrt27's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/abhishekkrt27?cardType=level&preferLogin=false&Background=000000&Text=FFFFFF&Border=000000" /></a>
+  <a href="#GitHub Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkrt27&layout=compact&langs_count=5&theme=highcontrast&hide_border=true" height="200em"/></a>
   </p>
 
 ### 🔥 GitHub Streaks
 
 <p align="center">
-  <a href="#GitHub Streaks"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekk-10&theme=youtube-dark&border_radius=8"/></a>
+  <a href="#GitHub Streaks"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekkrt27&theme=youtube-dark&border_radius=8"/></a>
 </p>
 
 ---
@@ -115,7 +115,7 @@
 ### 📆 Contribution Graph
 
 <p align="center">
-  <a href="#Contribution Graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekk-10&theme=high-contrast&hide_border=true" alt="GitHub Activity Graph" /></a>
+  <a href="#Contribution Graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkrt27&theme=high-contrast&hide_border=true" alt="GitHub Activity Graph" /></a>
 </p>
 
 ---
