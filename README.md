@@ -160,6 +160,6 @@
 <h4 align="center">⭐ Show some love by starring a few repositories!</h4>
 <p align="center">
   <a href="https://github.com/abhishekk-10?tab=repositories">
-    <img src="https://img.shields.io/github/stars/abhishekk-10?style=social" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/abhishekkrt27?style=social" alt="GitHub Stars"/>
   </a>
 </p>
